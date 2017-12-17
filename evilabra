@@ -1,0 +1,9 @@
+def a():
+    print "Hello"
+
+a()
+
+def b():
+    print "Goodbye World"
+
+b()
