@@ -2,3 +2,8 @@ def a():
     print "Hello World"
 
 a()
+
+def b():
+    print "Goodbye World"
+
+b()
